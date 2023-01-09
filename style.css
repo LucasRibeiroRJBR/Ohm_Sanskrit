@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Yatra+One&display=swap');
+
+* {
+    font-family: 'Yatra One', cursive;
+}
+
+body {
+    background-color: #D9A79C;
+    height: 100%;
+    background-attachment: fixed;
+}
+
+header {
+    background-color: #73332D;
+    color: #F2DF80;
+    border-radius: 15px;
+    width: 600px;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+}
+
+.titulo {
+    color: #73332D;
+    text-align: center;
+    background-color: #73332D;
+    color: #F2DF80;
+    width: 200px;
+    margin: auto;
+    margin-top: 25px;
+}
+
+
+/* Color Theme Swatches in Hex */
+.sanskrit-1-hex { color: #F2EA79; }
+.sanskrit-2-hex { color: #F2DF80; }
+.sanskrit-3-hex { color: #A65437; }
+.sanskrit-4-hex { color: #D9A79C; }
+.sanskrit-5-hex { color: #73332D; }
+
+
